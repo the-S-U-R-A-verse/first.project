@@ -1,0 +1,19 @@
+>> For first time need to configure github in my system
+git config --global user.name "the-S-U-R-A-verse"
+git config --global user.email "hossainsuraiya2005@gmail.com"
+git config --global color.ui auto
+
+
+
+Mandatory comments:
+>> git init
+>> git remote add origin https://github.com/the-S-U-R-A-verse/first.project.git
+
+
+git pull origin main
+git status
+
+git add .
+git status
+git commit -m "Commit Message"
+git push
